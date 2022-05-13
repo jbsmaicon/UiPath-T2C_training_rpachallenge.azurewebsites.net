@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DrWyDg772UOXgalr_CNw2w",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/DrWyDg772UOXgalr_CNw2w",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "File Name",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:42:01.5008976Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:42:37.4279699Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

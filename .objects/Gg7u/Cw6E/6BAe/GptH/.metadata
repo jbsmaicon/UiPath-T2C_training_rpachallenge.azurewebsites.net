@@ -1,0 +1,13 @@
+﻿{
+  "Id": "GptHJENgdU6-b6MY9hk15A",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/GptHJENgdU6-b6MY9hk15A",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "First Name",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:38:13.559443Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:38:13.559443Z"
+}

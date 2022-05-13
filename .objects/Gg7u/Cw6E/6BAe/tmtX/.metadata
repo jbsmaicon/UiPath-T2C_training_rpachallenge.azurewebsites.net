@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tmtXY_zVZkGpgXbsUesAQA",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/tmtXY_zVZkGpgXbsUesAQA",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "Save",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:43:28.6186751Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:43:36.1796441Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

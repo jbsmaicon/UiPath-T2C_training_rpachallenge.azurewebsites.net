@@ -1,0 +1,16 @@
+﻿{
+  "Id": "VkIg6PdhgUu51VKM194JtQ",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/VkIg6PdhgUu51VKM194JtQ",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "Download Excel",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:40:02.0438393Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:40:09.7986418Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

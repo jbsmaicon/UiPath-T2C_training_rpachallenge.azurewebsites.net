@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5FGngUIqr06Yj8sbJLiykA",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/5FGngUIqr06Yj8sbJLiykA",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "Submit",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:41:00.9429471Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:41:07.0006936Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Cszk6_Vsz0yIXmpY3IanxQ",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/Cszk6_Vsz0yIXmpY3IanxQ",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "Address",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:37:39.6564948Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:37:54.1542366Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

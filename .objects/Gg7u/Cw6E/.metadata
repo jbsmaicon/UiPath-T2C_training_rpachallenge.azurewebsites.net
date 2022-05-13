@@ -1,0 +1,12 @@
+﻿{
+  "Id": "Cw6EU5wVyUCb0-dsx7i9Kw",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/Cw6EU5wVyUCb0-dsx7i9Kw",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/Gg7uFI0hnU2evM9FDdQDnw",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2022-05-13T00:14:18.1233622Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:14:18.1233622Z"
+}

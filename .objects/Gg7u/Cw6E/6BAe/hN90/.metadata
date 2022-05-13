@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hN903UvIA0qjcRmdA8biJA",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/hN903UvIA0qjcRmdA8biJA",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "Phone Number",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:38:21.3403924Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:38:31.1199298Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

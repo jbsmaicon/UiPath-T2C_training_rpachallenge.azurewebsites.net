@@ -1,0 +1,11 @@
+﻿{
+  "Id": "Gg7uFI0hnU2evM9FDdQDnw",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/Gg7uFI0hnU2evM9FDdQDnw",
+  "Name": "rpachallenge.azure",
+  "Type": "App",
+  "Created": "2022-05-13T00:14:16.2178379Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:14:16.2178379Z"
+}

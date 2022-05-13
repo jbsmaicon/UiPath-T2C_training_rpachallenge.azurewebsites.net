@@ -1,0 +1,16 @@
+﻿{
+  "Id": "I1owLpiB4UC-FjWY4lTDhg",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/I1owLpiB4UC-FjWY4lTDhg",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "Start",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:40:34.8450895Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:40:50.1770378Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

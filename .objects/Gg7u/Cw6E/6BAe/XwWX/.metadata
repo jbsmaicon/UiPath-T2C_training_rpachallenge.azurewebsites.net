@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XwWXoOtnhkCjguvynNwGYA",
+  "Reference": "LTXT_UBCk0-t41N-SON-rQ/XwWXoOtnhkCjguvynNwGYA",
+  "ParentRef": "LTXT_UBCk0-t41N-SON-rQ/6BAemg1QvEWvXKX4C1WLWA",
+  "Name": "Role in Company",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Created": "2022-05-13T00:39:03.1852953Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-13T00:39:12.6992716Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
